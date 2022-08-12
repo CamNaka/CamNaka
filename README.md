@@ -1,7 +1,7 @@
 -  Hi, I’m Cameron Nakaba
 -  I’m interested in machine learning and web devopment
--  I’m currently learning the fundamentals of python, HTML and javascript
--  I'm look to collabort and learn with like minded people ready to learn!
+-  I’m currently learning the fundamentals of python and javascript
+-  I'm looking to collaborate and learn with like minded people!
 -  How to reach me: cameronnakaba4@gmail.com
 
 <!---
